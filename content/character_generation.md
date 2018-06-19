@@ -1,7 +1,7 @@
 ---
 title: "Character Generation"
 cover: "images/piranesi-carceri-invenzione.jpg"
-date: "2018-06-18"
+date: "06/18/2018"
 category: "character generation"
 tags:
     - cthulhu

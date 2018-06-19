@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{389:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{fields:{slug:"/character-generation"},excerpt:"Call of Cthulhu Character Generation Steps: Choose pulp archetype. Generate characteristics. Determine pulp talents. Determine Occupation…",timeToRead:16,frontmatter:{title:"Character Generation",tags:["cthulhu","character generation","pulp","house rules"],cover:"images/piranesi-carceri-invenzione.jpg",date:"06/18/2018"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-ee61f619f9bff7873796.js.map

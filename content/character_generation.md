@@ -36,7 +36,9 @@ There is a list of archetypes on page 16, and all of the archetypes are on pages
 ## 2. Generate Characteristics
 
 
-1. Roll and record 3d6x5, re-rolling 1s, 5 times, recording each outcome.
+1. Roll and record 3d6x5, re-rolling 1s, 3 times, recording each outcome.
+2. Roll and record (2d6 + 6)x5, re-rolling 1s, 4 times and record each outcome.
+3. Divide the scores amongst the characteristics.
     - Strength(STR)
     - Constitution(CON)
     - Size(SIZ)
@@ -45,9 +47,6 @@ There is a list of archetypes on page 16, and all of the archetypes are on pages
     - Intelligence(INT)
     - Power(POW)
     - Education(EDU)
-    - Luck
-2. Roll and record (2d6 + 6)x5, re-rolling 1s, 2 times and record each outcome.
-3. Divide the scores amongst the characteristics.
 4. Determine half rating by dividing by 2 and record for each characteristic, round up.
 5. Determine fifth rating by dividing by 5 and record for each characteristic, round up.
 6. Determine attributes
@@ -69,10 +68,11 @@ There is a list of archetypes on page 16, and all of the archetypes are on pages
 - Intelligence(INT)
 - Power(POW)
 - Education(EDU)
-- Luck
 
 ### Attributes
 
+- Luck
+    - Roll (2d6 + 6) * 5, re-roll 1s.
 - Age
   - Choose any age between 20 and 95 years.
   - Age modifiers and experience bonuses aren't used in Pulp Cthulhu.
